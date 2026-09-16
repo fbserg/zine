@@ -1,0 +1,19 @@
+{
+ "editor": {
+  "model": "claude-fable-5-1",
+  "input": 130,
+  "output": 3765,
+  "cache_write": 19843,
+  "cache_read": 69818,
+  "usd": 0.761
+ },
+ "draw": {
+  "input": 719881,
+  "cached": 659456,
+  "output": 4350,
+  "images": 13,
+  "usd": 1.005
+ },
+ "usd": 1.77,
+ "partial": false
+}

@@ -1,0 +1,41 @@
+Ink: fluorescent orange
+
+## Page 1
+Words: UNPROMPTED (headline)
+
+Picture: Night, the house seen straight on from the far side of a two lane blacktop road. The road is two long black lines across the bottom of the square, with a sandy shoulder, a shallow ditch, and a mailbox on a leaning post cropped at the right edge. The house is one flat black shape with thick outlines: an old wood frame house, two storeys, clapboard, a low tin roof, a deep front porch on square posts, the whole thing standing off the ground on short block piers with a dark gap under the floor. It sits low in the bottom two thirds of the square, so a wide band of bare paper stands above it for sky. Only two things are fluorescent orange, and they are both light: a lit window on the ground floor and a lit window upstairs, the upstairs one directly above the other. Inside the ground-floor window, a small black figure of a man stands facing the road, arms at his sides, dot eyes, no expression. Nobody is in the upstairs window. One live oak limb hangs into the top left corner, cropped, with three flat black beards of moss on it. The title UNPROMPTED runs across the empty sky in bold black cut-paper capitals, wide, letter-spaced, sitting just above the roof line. The orange window shapes print about 2 mm down and left of their black frames, so the light leaks out onto the boards.
+
+## Page 2
+Words: He moved into my house. (small text)
+
+Picture: Daylight, hot. The frame holds only the bare sand of the yard, the bottom of the front steps, the porch floor, and a slice of the screen door, all flat black outline on bare paper, drawn from a few steps out in the yard. Two ruts of a dirt drive run in from the right and stop. The man stands on the second step, most of the way up, holding a cardboard box against his chest with both arms. He has stopped. He faces the door but his head is turned back over his shoulder toward the road, toward the reader, dot eyes, blank. He is rubbery and simplified, in a plain shirt, plain trousers, no jacket. One flat fluorescent orange shape only: the hard slab of afternoon sun that lands across the porch floor and climbs the bottom of the screen door, with the man's black shape standing in it. The right half of the page is empty paper. The small typewriter line sits low in that empty right half. The orange slab prints about 2 mm off the porch edge, so the sun hangs slightly over the steps.
+
+## Page 3
+Words: He paid the deposit. (small text)
+
+Picture: Interior, the empty front room, seen square from the far wall. No furniture at all. Wide old floorboards, a tall baseboard, one closed door, one window, all thin flat black line on bare paper, generous and plain. The man stands near the middle of the room, small against the height of it, still holding the box, looking down at the floor as if choosing a spot. Shoulders sloped. Dot eyes, no expression. The single fluorescent orange shape is a tall leaning trapezoid of window light thrown across the bare wall and bending down onto the floorboards, larger than he is. He stands beside it, not in it. The small typewriter line sits in the empty floor area at the bottom right. The orange trapezoid prints about 2 mm above the floor line, so the light floats free of the wall.
+
+## Page 4
+Words: He brought her. (small text)
+
+Picture: Same room, later, from a low corner. Two figures now, far apart in a wide empty square. The man stands in the doorway on the left, one hand still on the frame, not entering, head slightly lowered, dot eyes, blank. On the right, a woman stands at a tall sash window with her back to the reader, one hand lifting the edge of a bent metal blind. Past the glass there is only flat paper and one black pine trunk. She is drawn the same way he is, rubbery and flat, no face shown. Between them is nothing but paper and two black boxes on the floor, flat and closed. The fluorescent orange is the light through the lifted blind: one bright bar on the wall beside her and a narrow spill along the floorboards that reaches halfway to his feet and stops. The small typewriter line sits centred in the empty band between the two figures. The orange bars print about 2 mm right of the window, so the light misses the opening it came from.
+
+## Page 5
+Words: She measured my windows. (small text)
+
+Picture: Interior, the same window, seen closer and from the side. A window air conditioner sits in the bottom sash, a flat black box with a grille of straight lines, filling the lower half of the opening. The woman stands on a short black stepladder, back to the reader, holding a tape measure across the top of the frame, a taut black line above the unit. The man stands at the foot of the ladder with one hand on it, holding it steady, but he is not watching her or the window. He looks out of the frame to the left, past the edge of the page, head level, dot eyes, blank, mouth a short flat line. The room around them is bare paper, one baseboard, one wall corner. The fluorescent orange is the flat rectangle of glass left above the air conditioner, plus a thin echo of that shape on the floorboards. The small typewriter line sits at the top left, in the empty wall. The orange glass prints about 2 mm up and left of the black frame, so a sliver of light sits outside the window on the wall.
+
+## Page 6
+Words: none
+
+Picture: Night, outdoors, the back of the house. The frame is mostly bare paper, held by a few thick black lines: three wooden back steps, a rail, a sagging chain link fence along the right with one flat fan of palmetto pushing through it, and a dented metal garbage can with its lid on the ground beside it. The ground is sand, drawn as one long line. The man sits alone on the top step, elbows on knees, a bottle hanging from one hand, feet together, staring straight ahead at nothing, dot eyes, no expression. On the sand at the bottom of the steps, close enough to touch, an armadillo stands facing the same way he does, nose down, a flat black armoured shape with a thin tail. Neither looks at the other. The only fluorescent orange is a bare bulb over the back door and the cone of light it drops on the steps, which lands on the armadillo and stops short of the man. No words anywhere on the page. The orange cone prints about 2 mm to one side of the bulb, so the light and its source do not meet.
+
+## Page 7
+Words: He still waters my plant. (small text)
+
+Picture: Interior night, seen straight on. A tall narrow composition: floorboards at the bottom, a great deal of bare wall, and a plain black ceiling line with a ceiling fan near the top, drawn flat as a small hub and four long thin blades, still. The man stands at a windowsill on the left, in profile, tipping a small watering can into a single potted plant, a flat black shape with four stiff leaves. He holds the can with two hands, careful, patient, dot eyes, blank, as if he has done this many times. Everything else in the square is empty paper. The fluorescent orange is one soft rectangle thrown on the wall behind him and the plant by a pole light out on the drive, cut by the window bars into two panes. The small typewriter line sits in the wide empty wall at the right, at the man's shoulder height. The orange rectangle prints about 2 mm down from the window, so the light sags below the sill.
+
+## Page 8
+Words: I live upstairs. (small text)
+
+Picture: Interior night, looking down a steep straight staircase from the top landing, the reader standing where the narrator stands. The treads run away down the square in flat black lines, narrowing, with a plain black rail on the right and bare board walls close on both sides. At the bottom, small, the man stands at the foot of the stairs with one hand on the newel post, head tipped back, looking straight up at the reader, dot eyes, no expression, mouth a short flat line. He is the only figure. The rest is bare paper and stair lines. The fluorescent orange is a single wide slab of light thrown from an open door behind the reader, running down the stairs from the bottom of the frame, narrowing as it goes, reaching the man's feet and stopping at his knees. The small typewriter line sits on the top tread, close to the reader, small in a lot of empty paper. The orange slab prints about 2 mm to the left of the stairs, so the light runs off the edge of the steps into nothing.

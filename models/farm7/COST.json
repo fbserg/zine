@@ -1,0 +1,19 @@
+{
+ "editor": {
+  "model": "claude-opus-5",
+  "input": 8,
+  "output": 5423,
+  "cache_write": 10946,
+  "cache_read": 62875,
+  "usd": 0.235
+ },
+ "draw": {
+  "input": 871761,
+  "cached": 804864,
+  "output": 3404,
+  "images": 8,
+  "usd": 0.883
+ },
+ "usd": 1.12,
+ "partial": false
+}

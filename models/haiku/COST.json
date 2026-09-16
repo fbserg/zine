@@ -1,0 +1,19 @@
+{
+ "editor": {
+  "model": "claude-haiku-4-5-20251001",
+  "input": 26,
+  "output": 7242,
+  "cache_write": 22412,
+  "cache_read": 30801,
+  "usd": 0.067
+ },
+ "draw": {
+  "input": 721497,
+  "cached": 639232,
+  "output": 3773,
+  "images": 9,
+  "usd": 0.874
+ },
+ "usd": 0.94,
+ "partial": false
+}

@@ -1,0 +1,19 @@
+{
+ "editor": {
+  "model": "claude-sonnet-5",
+  "input": 54,
+  "output": 20511,
+  "cache_write": 110694,
+  "cache_read": 1005984,
+  "usd": 1.025
+ },
+ "draw": {
+  "input": 542672,
+  "cached": 489856,
+  "output": 3689,
+  "images": 10,
+  "usd": 0.78
+ },
+ "usd": 1.8,
+ "partial": false
+}
